@@ -63,7 +63,7 @@ afterEvaluate {
 
             groupId = "com.github.Konbitech"
             artifactId = "Printer"
-            version = rootProject.ext.versionName
+            version = "0.0.1"
         }
     }
 }
